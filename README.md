@@ -67,4 +67,19 @@ This project demonstrates:
 - Functions and recursion
 - Embedded systems concepts
 - Integration of software and hardware concepts
-```
+
+---
+
+## License
+This project is under the MIT License
+
+---
+
+## Author
+Monica Dhieu
+
+---
+
+*Friday, June 6, 2026*
+
+
