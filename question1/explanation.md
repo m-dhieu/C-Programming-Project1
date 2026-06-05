@@ -40,11 +40,7 @@ For example, using * instead of + in a sum calculation.
 
 ## C Compilation Process
 
-When compiling using:
-
-`gcc simple_calc.c -o simple_calc`
-
-The following stages happen:
+When compiling using `gcc simple_calc.c -o simple_calc`, the following stages happen:
 
 ### 1. Preprocessing
 - Handles #include statements like stdio.h
