@@ -13,7 +13,8 @@ The result is printed with 2 decimal places.
 
 ---
 
-## ![View sample output](calc_output.jpg)
+## Sample output 
+![View sample output](calc_output.jpg)
 
 ---
 
