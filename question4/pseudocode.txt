@@ -1,0 +1,20 @@
+START
+
+Initialize LED pin as OUTPUT
+
+LOOP forever
+
+    Read temperature sensor value
+
+    Convert sensor reading to temperature
+
+    IF temperature > 28°C THEN
+        Turn LED ON
+    ELSE
+        Turn LED OFF
+    ENDIF
+
+    Wait 500 milliseconds
+
+END LOOP
+
